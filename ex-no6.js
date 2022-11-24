@@ -1,0 +1,16 @@
+let num1 = 2;
+let num2 = 6;
+let add = num1 + num2;
+console.log(add);
+let num3 = 12;
+let num4 = 4;
+let sub = num3 - num4;
+console.log(sub);
+let num5 = 2;
+let num6 = 4;
+let mul = num5 * num6;
+console.log(mul);
+let num7 = 16;
+let num8 = 2;
+let div = num7 / num8;
+console.log(div);
